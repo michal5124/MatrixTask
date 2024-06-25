@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35017.193
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IO.Swagger", "src\IO.Swagger\IO.Swagger.csproj", "{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IO.Swagger.Tests", "Tests1\IO.Swagger.Tests.csproj", "{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IO.Swagger.Tests", "IO.Swagger.Tests\IO.Swagger.Tests.csproj", "{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
