@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\Tests1.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\tests1\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\Tests1.csproj|solutionrelative:tests1\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\Tests1.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\tests1\\controllers\\authenticationapicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\Tests1.csproj|solutionrelative:tests1\\controllers\\authenticationapicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\controllers\\authenticationapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\controllers\\authenticationapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\controllers\\calculatorapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\controllers\\calculatorapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\Tests1.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\tests1\\controllers\\calculationapicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\Tests1.csproj|solutionrelative:tests1\\controllers\\calculationapicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\models\\calculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\models\\calculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\io.swagger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\io.swagger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\IO.Swagger.Tests.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\tests1\\io.swagger.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\IO.Swagger.Tests.csproj|solutionrelative:tests1\\io.swagger.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\Tests1.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\tests1\\services\\jwttokenservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\Tests1.csproj|solutionrelative:tests1\\services\\jwttokenservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\Tests1.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\tests1\\services\\calculationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}|Tests1\\Tests1.csproj|solutionrelative:tests1\\services\\calculationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\repository\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\repository\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\user1\\downloads\\aspnetcore-server-generated (4)\\src\\io.swagger\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests1\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 175,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Dockerfile",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Dockerfile",
+              "RelativeToolTip": "src\\IO.Swagger\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-24T20:33:00.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationApiControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\Controllers\\AuthenticationApiControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests1\\Controllers\\AuthenticationApiControllerTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\Controllers\\AuthenticationApiControllerTests.cs",
+              "RelativeToolTip": "Tests1\\Controllers\\AuthenticationApiControllerTests.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:19:25.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationApi.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Controllers\\AuthenticationApi.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Controllers\\AuthenticationApi.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Controllers\\AuthenticationApi.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Controllers\\AuthenticationApi.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAIBQwFoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:11:42.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorApi.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Controllers\\CalculatorApi.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Controllers\\CalculatorApi.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Controllers\\CalculatorApi.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Controllers\\CalculatorApi.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwDYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:59:03.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\Services\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests1\\Services\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\Services\\UserServiceTests.cs",
+              "RelativeToolTip": "Tests1\\Services\\UserServiceTests.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAASwDEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:15:54.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Services\\UserService.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:52:20.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Models\\CalculationRequest.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Models\\CalculationRequest.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Models\\CalculationRequest.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Models\\CalculationRequest.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:03:37.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculationApiControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\Controllers\\CalculationApiControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests1\\Controllers\\CalculationApiControllerTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\Controllers\\CalculationApiControllerTests.cs",
+              "RelativeToolTip": "Tests1\\Controllers\\CalculationApiControllerTests.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIBJwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:19:38.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Program.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Program.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:02:01.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Startup.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Startup.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Startup.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAIBJwGkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:24:01.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:29:27.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:56:35.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Services\\CalculationService.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:18:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\appsettings.json",
+              "RelativeToolTip": "src\\IO.Swagger\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T14:19:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IO.Swagger.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\IO.Swagger.csproj",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\IO.Swagger.csproj",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\IO.Swagger.csproj",
+              "RelativeToolTip": "src\\IO.Swagger\\IO.Swagger.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T15:12:57.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tests1.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\IO.Swagger.Tests.csproj",
+              "RelativeDocumentMoniker": "Tests1\\IO.Swagger.Tests.csproj",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\IO.Swagger.Tests.csproj",
+              "RelativeToolTip": "Tests1\\IO.Swagger.Tests.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T14:19:01.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CalculationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\Services\\CalculationServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests1\\Services\\CalculationServiceTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\Services\\CalculationServiceTests.cs",
+              "RelativeToolTip": "Tests1\\Services\\CalculationServiceTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:16:53.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtTokenServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\Services\\JwtTokenServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests1\\Services\\JwtTokenServiceTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\Services\\JwtTokenServiceTests.cs",
+              "RelativeToolTip": "Tests1\\Services\\JwtTokenServiceTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwDwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:17:02.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\Tests1\\UnitTest1.cs",
+              "RelativeToolTip": "Tests1\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:14:58.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Repository\\UserDBContext.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Repository\\UserDBContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Repository\\UserDBContext.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Repository\\UserDBContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:16:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\IO.Swagger\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T16:27:13.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Models\\User.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\aspnetcore-server-generated (4)\\src\\IO.Swagger\\Models\\User.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Models\\User.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAQwCIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:12:02.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IO.Swagger", "src\IO.Swagger\IO.Swagger.csproj", "{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IO.Swagger.Tests", "Tests1\IO.Swagger.Tests.csproj", "{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE570BC7-CDDF-40AC-B8A7-42855B3040DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B792EE7-585F-433A-8BEC-8A83B8B3CFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9732361-5A65-4A73-8B7B-7E43FA9BE027}
+	EndGlobalSection
+EndGlobal
